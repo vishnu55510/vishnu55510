@@ -10,7 +10,7 @@ As a data enthusiast, my goal is to use my analytical and technical skills to so
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu55510&show_icons=true&theme=radical)
 
 
-https://eldorado55510.wixsite.com/my-site-4
+[WIX](https://eldorado55510.wixsite.com/my-site-4)
 
 
 <!---
