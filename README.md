@@ -1,7 +1,8 @@
-### Hi there 👋, Maha vishnu 
-#### Data Analytics and Data Science
+
 ![github-header-image (1)](https://github.com/vishnu55510/vishnu55510/assets/162179720/f8fe4123-121b-46ab-9bb1-7c520439a5f2)
 
+### Hi there 👋, Maha vishnu 
+#### Data Analytics and Data Science
 
 A Bit About Me
 
