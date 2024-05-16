@@ -1,5 +1,5 @@
 
-Hi, my name is Maha vishnu
+Hi, my name is Maha vishnu👋
 I specialize in data analysis and data science.
 
 A Bit About Me
