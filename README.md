@@ -1,6 +1,6 @@
 ![github-header-image (1)](https://github.com/vishnu55510/vishnu55510/assets/162179720/b4222068-0d83-4966-9751-16eabcad0269)
 
-Hi, my name is Maha vishnu
+👋 Hi, my name is Maha vishnu
 I specialize in data analysis and data science.
 
 A Bit About Me
@@ -9,7 +9,7 @@ As a data enthusiast, my goal is to use my analytical and technical skills to so
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu55510&show_icons=true&theme=radical)
 
-
+##
 https://eldorado55510.wixsite.com/my-site-4
 
 
