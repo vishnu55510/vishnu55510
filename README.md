@@ -1,6 +1,7 @@
 ### Hi there 👋, Maha vishnu 
 #### Data Analytics and Data Science
-![Data Analytics and Data Science](https://community.dataquest.io/t/create-your-readme-banner-for-github/567809)
+![github-header-image (1)](https://github.com/vishnu55510/vishnu55510/assets/162179720/f8fe4123-121b-46ab-9bb1-7c520439a5f2)
+
 
 A Bit About Me
 
