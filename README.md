@@ -1,6 +1,6 @@
 ### Hi there 👋, Maha vishnu 
 #### Data Analytics and Data Science
-![Data Analytics and Data Science](https://www.linkedin.com/in/maha-vishnu-b031aa234/overlay/background-image/)
+![Data Analytics and Data Science](https://community.dataquest.io/t/create-your-readme-banner-for-github/567809)
 
 A Bit About Me
 
@@ -13,6 +13,7 @@ Skills: SQL / BI / Python / ML / AI
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vishnu55510)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maha-vishnu-b031aa234//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eldorado55510.wixsite.com/my-site-4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wix.svg' alt='wix' height='40'>](https://eldorado55510.wixsite.com/my-site-4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@eldorado55510)  
+
 
 <!---
 vishnu55510/vishnu55510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
