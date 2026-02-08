@@ -11,7 +11,7 @@ As a data enthusiast, my goal is to use my analytical and technical skills to so
 Skills: SQL / BI / Python / ML / AI 
 
 - 🔭 I’m currently working on ML,AI 
-- 📫 How to reach me: eldorado55510@gmail.com
+- 📫 How to reach me: mahavishnu55510@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vishnu55510)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maha-vishnu-b031aa234//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wix.svg' alt='wix' height='40'>](https://eldorado55510.wixsite.com/my-site-4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@eldorado55510)  
